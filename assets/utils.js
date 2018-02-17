@@ -10,7 +10,6 @@
  * can do "Math.random()*50;". This effectively returns a score
  * from 0 to 50.
  */
-
 const utils = {
 	nameScore: function(name) {
 		/* TODO */
@@ -47,3 +46,7 @@ const utils = {
 		return running_sum / array.length;
 	}
 };
+/*
+Some utility functions you may find helpful
+*/
+// TODO: Do this
