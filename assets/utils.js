@@ -13,15 +13,15 @@
 const utils = {
 	nameScore: function(name) {
 		/* TODO */
-		return 0;
+		return Math.random() * 500;
 	}, 
 	heightScore: function(height) {
 		/* TODO */
-		return 0;
+		return Math.random() * 500;
 	},
 	scaleScore: function(scale) {
 		/* TODO */
-		return 0;
+		return Math.random() * 500;
 	},
 	radioScore: function(radio) {
 		/* Example of a score function */ 
